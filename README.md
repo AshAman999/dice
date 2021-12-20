@@ -1,6 +1,7 @@
-# dice
+# DICE APP
 
-A new Flutter project.
+Demonstrating state management using set state 
+# Dice App built to teach GEOP students
 
 ## Getting Started
 
